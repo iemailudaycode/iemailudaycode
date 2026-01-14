@@ -1,5 +1,7 @@
 # 💫 About Me:
-Aspiring machine learning engineer with hands-on projects across AI, data analytics, and CRM systems. I’ve worked internationally in Colombo supporting customer operations, and I’m now diving deeper into applied AI — focusing on model building, churn prediction, and real-world data workflows. I ship fast, learn fast, and document as I go. Currently leveling up in Python, Power BI, and practical ML to prepare for a research-driven master’s in Computer Science.
+AI-focused IT professional with international CRM and customer service experience in Colombo, supporting customer retention, data quality, and process improvement. Completed independent churn prediction research using the IBM Telco dataset comparing Zero-Shot, Few-Shot, Chain-of-Thought and Structured prompting to identify the most accurate method. Skilled in
+Python fundamentals, data preparation, and prompt engineering, with a strong interest in applying AI to solve business and
+customer-facing challenges.
 
 
 ## 🌐 Socials:
